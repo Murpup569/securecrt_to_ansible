@@ -1,15 +1,15 @@
 # SecureCRT_to_Ansible
 This is a script to convert an xml file exported from SecureCRT to Yaml so it can be used for Ansible hosts.
 
-# CONVERTER
-This program requires an xml file named export.xml to run.
----
-Follow these steps
+
+# This program requires an xml file named export.xml to run.
+
+# Follow these steps to get started!
 1. Open SecureCRT
 2. Click "Tools"
 3. Click "Export Settings..."
 4. Verify that ONLY "Sessions" is checkmarked. If not,
-   Make it so.
+   Make it so. 🖖 
 5. Export the file to the same directory as this script
 6. Run script
 
