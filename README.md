@@ -6,7 +6,7 @@ This is a script to convert an xml file exported from SecureCRT to Yaml so it ca
 2. Click "Tools"
 3. Click "Export Settings..."
 4. Verify that ONLY "Sessions" is checkmarked. If not,
-   Make it so. 🖖 
+   make it so. 🖖 
 5. Export the file to the same directory as this script
 6. Run script
 
