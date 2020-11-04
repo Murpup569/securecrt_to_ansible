@@ -2,7 +2,6 @@
 This is a script to convert an xml file exported from SecureCRT to Yaml so it can be used for Ansible hosts.
 
 # CONVERTER
----
 This program requires an xml file named export.xml to run.
 ---
 Follow these steps
