@@ -12,4 +12,7 @@ This is a script to convert an xml file exported from SecureCRT to Yaml so it ca
 
 # Issues/Help
 This script has bugs and some cleanup will need to be done to the output in order to be used in Ansible.
+
 You can use >> to save the output to a file. This script was quick and dirty and I only needed to run it once. Please don't judge!
+
+This script will not pull data from folders that are more than three folders deep.
